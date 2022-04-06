@@ -6,7 +6,7 @@
    
    ### 🐼 Sobre Mim:
    
-   *Sou Klaus tenho 18 anos, estou em busca de minha primeira vaga como desenvolvedor Front-Fnd*
+   *Sou Klaus tenho 18 anos, estou em busca de minha primeira vaga como desenvolvedor Front-End*
    
    * 🌱 Atualmente estudando JavaScript e ReactJS
    * 📫 Contate-me: contato.klausmorotti@gmail.com

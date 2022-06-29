@@ -1,10 +1,8 @@
-   <h1 align="center">
-      Olá, Sou Klaus Morotti
-      </br>
-      Desenvolvedor Web e UX/UI Designer
-   </h1>
-   
-   ### 🐼 Sobre Mim:
+<h1 align="center">Olá, Sou Klaus Morotti<br>Desenvolvedor Web e UX/UI Designer</h1>
+
+### 🐼 Sobre Mim:
+
+<br/>
    
    *Sou Klaus tenho 18 anos, estou em busca de minha primeira vaga como desenvolvedor Front-End*
    
@@ -13,22 +11,50 @@
    * 🚀 Estudante de desenvolvimento FullStack na B7Web
 
   ### 📊 Metas para 2022:
+  
+  <br/>
+  
    * 👨🏼‍💻 <em>Conquistar vaga como desenvolvedor</em>
    * 📂 <em>Expandir meu portfolio</em>
    * 📈 <em>Ganhar experiência na área</em>
 
-  ### 💻 Tecnologias trabalhadas:
-   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
-   
-  ### 📈 Estatísticas:
-   | Estatísticas                                                                                                                                                            | Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=klausmorotti&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klausmorotti&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
-                                                            
-  <p><em>Contate-me:</em></p>                                                          
-  <div>
-   <a href="mailto:contato.klausmorotti@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
-  <a href="https://www.linkedin.com/in/klaus-morotti-58119520a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://api.whatsapp.com/send/?phone=%2B5518996928982&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+### 📈 Estatísticas: 
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/klausmorotti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klausmorotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klausmorotti&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+###
+
+<br/>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
 </div>
    
+<hr/>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+
+###

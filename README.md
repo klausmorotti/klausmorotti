@@ -6,7 +6,7 @@
 
 *Sou Klaus tenho 18 anos, estou em busca de minha primeira vaga como desenvolvedor Front-End* 
 
-* 🌱 Atualmente estudando JavaScript e ReactJS
+* 🌱 Atualmente estudando ReactJS
 * 📫 Contate-me: contato.klausmorotti@gmail.com
 * 🚀 Estudante de desenvolvimento FullStack na B7Web
 

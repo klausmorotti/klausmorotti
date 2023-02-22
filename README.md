@@ -4,17 +4,17 @@
 
 <br/>
 
-*Sou Klaus tenho 18 anos, estou em busca de minha primeira vaga como desenvolvedor Front-End* 
+*Sou Klaus tenho 19 anos e atuo no mercado Front-End há 3 anos desde projetos freelancers envolvendo sistemas complexos com transações monetárias desde vagas CLT em migração de ERP.* 
 
-* 🌱 Atualmente estudando ReactJS
+* 🌱 Atualmente estudando React Native
 * 📫 Contate-me: contato.klausmorotti@gmail.com
 * 🚀 Estudante de desenvolvimento FullStack na B7Web
 
-### 📊 Metas para 2022:
+### 📊 Metas para 2023:
 
-* 👨🏼‍💻 Conquistar vaga como desenvolvedor
+* 👨🏼‍💻 Conquistar vaga como desenvolvedor ReactJS
 * 📂 Expandir meu portfolio
-* 📈 Ganhar experiência na área
+* 📈 Ganhar experiência na área e poder contribuir com o crescimento da empresa ensinando os demais colegas de equipe e deixando meus blocos de código como marca.
 
 ### ⚡ Tecnologias:
 

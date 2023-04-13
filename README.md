@@ -30,9 +30,9 @@
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,mysql,firebase)](https://skillicons.dev)
  
- - Tools and Plataforms
+ - Ferramentas e plataformas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,githubactions,gitlab,postman,figma,linux)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,postman,figma)](https://skillicons.dev)
    
 </div>
 

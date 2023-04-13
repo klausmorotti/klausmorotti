@@ -4,21 +4,21 @@
 
 <br/>
 
-*Sou Klaus tenho 19 anos e atuo no mercado Front-End há 3 anos desde projetos freelancers envolvendo sistemas complexos com transações monetárias desde vagas CLT em migração de ERP.* 
+*Atuo no mercado Front-End há 3 anos desde projetos freelancers envolvendo sistemas complexos com transações monetárias desde vagas CLT em migrações de ERP.* 
 
-* 🌱 Atualmente estudando React Native
+* 🌱 Atualmente estudando NodeJS
 * 📫 Contate-me: contato.klausmorotti@gmail.com
 * 🚀 Estudante de desenvolvimento FullStack na B7Web
 
 ### 📊 Metas para 2023:
 
-* 👨🏼‍💻 Conquistar vaga como desenvolvedor ReactJS
+* 👨🏼‍💻 Gerar valor em grande escala ao maior número de pessoas por meio de softwares
 * 📂 Expandir meu portfolio
-* 📈 Ganhar experiência na área e poder contribuir com o crescimento da empresa ensinando os demais colegas de equipe e deixando meus blocos de código como marca.
+* 📈 Ter a experiência de ensinar e aprender cada vez mais podendo contribuir com o crescimento da empresa, deixando meus blocos de código como marca.
 
 ### ⚡ Tecnologias:
 
-*Algumas das tecnologias nas quais eu trabalho:*
+*Tecnologias nas quais eu trabalho:*
 
 <div style="display:flex">
  

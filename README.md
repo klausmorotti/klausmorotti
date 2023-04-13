@@ -28,7 +28,7 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,sqlite,mongodb,mysql,postgres,firebase)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,mysql,firebase)](https://skillicons.dev)
    
 </div>
 

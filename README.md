@@ -29,6 +29,10 @@
 - Back-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,mysql,firebase)](https://skillicons.dev)
+ 
+ - Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,githubactions,gitlab,postman,figma,linux)](https://skillicons.dev)
    
 </div>
 
@@ -38,7 +42,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=klausmorotti&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klausmorotti&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-*☎️ Contate-me:*
+*☎️ Fale Comigo:*
 
 <div>
   <a href="https://www.linkedin.com/in/klausmorotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

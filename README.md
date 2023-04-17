@@ -32,7 +32,7 @@
  
  - Ferramentas e plataformas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,postman,figma)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=jest,git,github,postman,figma)](https://skillicons.dev)
    
 </div>
 

@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, Sou Klaus Morotti <br/> Desenvolvedor Web e UX/UI Designer </h1>
+<h1 align="center"> Olá, Sou Klaus Morotti <br/> Desenvolvedor Front-End e UX/UI Designer </h1>
 
 ### 🐼 Sobre Mim: 
 

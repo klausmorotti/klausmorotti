@@ -24,11 +24,11 @@
  
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,jest)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,styledcomponents,tailwind)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,mysql,firebase)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,mysql,firebase)](https://skillicons.dev)
  
  - Ferramentas e plataformas
 

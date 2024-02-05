@@ -1,20 +1,10 @@
-<h1 align="center"> Olá, Sou Klaus Morotti <br/> Desenvolvedor Front-End e UX/UI Designer </h1>
+<h1 align="center"> Olá, Sou Klaus Morotti <br/> Desenvolvedor Front-End e UX/UI Designer</h1>
 
 ### 🐼 Sobre Mim: 
 
 <br/>
 
-*Atuo no mercado Front-End há 3 anos desde projetos freelancers envolvendo sistemas complexos com transações monetárias desde vagas CLT em migrações de ERP.* 
-
-* 🌱 Atualmente estudando NodeJS
-* 📫 Contate-me: contato.klausmorotti@gmail.com
-* 🚀 Estudante de desenvolvimento FullStack na B7Web
-
-### 📊 Metas para 2023:
-
-* 👨🏼‍💻 Gerar valor em grande escala ao maior número de pessoas por meio de softwares
-* 📂 Expandir meu portfolio
-* 📈 Ter a experiência de ensinar e aprender cada vez mais podendo contribuir com o crescimento da empresa, deixando meus blocos de código como marca.
+*Atuo no mercado Front-End há 2 anos desde projetos freelancers envolvendo sistemas complexos com transações monetárias até vagas CLT em migrações de ERP.* 
 
 ### ⚡ Tecnologias:
 
